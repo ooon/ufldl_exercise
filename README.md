@@ -1,1 +1,1 @@
-Deep learning tutorial home work £¨matlab£©
+Deep learning tutorial home work (matlab)
